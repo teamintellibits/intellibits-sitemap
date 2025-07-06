@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<!-- English pages (default) -->
+	<url>
+		<loc>https://intellibits.io/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/textify</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/textify" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/textify" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/plans</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/plans" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/plans" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/account</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/account" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/account" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/signin</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/signin" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/signin" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/faq</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/faq" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/faq" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/support</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/support" />
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/support" />
+	</url>
+	<!-- Spanish pages -->
+	<url>
+		<loc>https://intellibits.io/es/</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/textify</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/textify" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/textify" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/plans</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/plans" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/plans" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/account</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/account" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/account" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/signin</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/signin" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/signin" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/faq</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/faq" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/faq" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/es/support</loc>
+		<xhtml:link rel="alternate" hreflang="es" href="https://intellibits.io/es/support" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/support" />
+	</url>
+	<!-- French pagfr -->
+	<url>
+		<loc>https://intellibits.io/fr/</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/textify</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/textify" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/textify" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/plans</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/plans" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/plans" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/account</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/account" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/account" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/signin</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/signin" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/signin" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/faq</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/faq" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/faq" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/fr/support</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="https://intellibits.io/fr/support" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/support" />
+	</url>
+	<!-- Italian pagit -->
+	<url>
+		<loc>https://intellibits.io/it/</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/textify</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/textify" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/textify" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/plans</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/plans" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/plans" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/account</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/account" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/account" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/signin</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/signin" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/signin" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/faq</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/faq" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/faq" />
+	</url>
+	<url>
+		<loc>https://intellibits.io/it/support</loc>
+		<xhtml:link rel="alternate" hreflang="it" href="https://intellibits.io/it/support" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://intellibits.io/support" />
+	</url>
+</urlset>
