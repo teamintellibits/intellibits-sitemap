@@ -1,20 +1,17 @@
 export default {
-  async fetch(request: Request): Promise<Response> {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
     if (url.pathname === "/sitemap.xml") {
-      const sitemapURL = "https://b7e3afa323246b07ffc8460275e35930.cdn.bubble.io/f1751820484214x179185465120865300/sitemap.xml"; // Your hosted XML file!
-      const response = await fetch(sitemapURL);
-
-      return new Response(response.body, {
-        status: response.status,
+      // Serve the sitemap from Cloudflare Pages (or another static host)
+      return fetch("https://b7e3afa323246b07ffc8460275e35930.cdn.bubble.io/f1751820484214x179185465120865300/sitemap.xml", {
         headers: {
-          "Content-Type": "application/xml",
-          "Cache-Control": "public, max-age=300",
-        },
+          'Content-Type': 'application/xml'
+        }
       });
     }
 
-    return new Response("Not Found", { status: 404 });
-  },
-};
+    // Forward everything else to Bubble
+    return fetch(request);
+  }
+}
