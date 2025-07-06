@@ -4,7 +4,7 @@ compatibility_date = "2025-07-06"
 
 # Add your actual zone and route below
 routes = [
-  { pattern = "intellibits.io/sitemap.xml", zone_name = "intellibits.io" }
+  { pattern = "/sitemap.xml", zone_name = "intellibits.io" }
 ]
 
 account_id = "2d138a85c82054c2cf4743ad5081a7a3"
