@@ -1,8 +1,0 @@
-name              = "sitemap-proxy"
-main              = "src/index.ts"
-compatibility_date = "2025-07-06"
-account_id        = "2d138a85c82054c2cf4743ad5081a7a3"         # ← paste from dashboard
-
-[[routes]]
-pattern   = "intellibits.io/sitemap.xml"
-zone_name = "intellibits.io"                       # or zone_id = "<UUID>"
