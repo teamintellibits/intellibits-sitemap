@@ -1,6 +1,7 @@
 name = "intellibits-sitemap-proxy"
 main = "src/index.ts"
 compatibility_date = "2025-07-06"
+workers_dev = false
 
 # Add your actual zone and route below
 routes = [
