@@ -3,7 +3,7 @@ export default {
     const url = new URL(request.url);
 
     if (url.pathname === "/sitemap.xml") {
-      const sitemapURL = "https://b7e3afa323246b07ffc8460275e35930.cdn.bubble.io/f1751820484214x179185465120865300/sitemap.xml"; // Your hosted XML file
+      const sitemapURL = "https://b7e3afa323246b07ffc8460275e35930.cdn.bubble.io/f1751820484214x179185465120865300/sitemap.xml"; // Your hosted XML file!
       const response = await fetch(sitemapURL);
 
       return new Response(response.body, {
