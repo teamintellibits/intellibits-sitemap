@@ -9,3 +9,6 @@ routes = [
 ]
 
 account_id = "2d138a85c82054c2cf4743ad5081a7a3"
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
